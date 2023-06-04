@@ -1,5 +1,5 @@
 # Text-Mood-Analyzer
-A sentiment analysis app to analyze sentiments by extracting text using ocr.
+A sentiment analysis web app to analyze sentiments by extracting text using ocr.
 
 
 This web app utilizes the EasyOCR library to perform Optical Character Recognition (OCR) on input images and extracts the text. The extracted text is then analyzed for sentiment using the Natural Language Toolkit (NLTK) library. The app predicts whether the text is positive or negative and provides the sentiment analysis result to the user.
