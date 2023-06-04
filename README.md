@@ -66,3 +66,13 @@ This web app utilizes the EasyOCR library to perform Optical Character Recogniti
 5. The extracted text will be analyzed for sentiment using NLTK.
 6. The app will display the sentiment analysis result, indicating whether the text is positive or negative.
 
+## Usecases
+### Customer Feedback Analysis
+Businesses can leverage the OCR Sentiment Analysis project to analyze customer feedback from surveys, reviews, or support tickets. By extracting text from the feedback documents and performing sentiment analysis, businesses can gain insights into customer sentiment. They can identify recurring positive or negative sentiments, identify areas for improvement, and make data-driven decisions to enhance their products or services.
+
+### Opinion Mining in Politics or Public Sentiment
+The project can be applied to analyze political speeches, news articles, or public opinion expressed in text. By extracting text using OCR and performing sentiment analysis, it becomes possible to understand the sentiment associated with political figures, policies, or societal issues. This information can help political campaigns, policymakers, or researchers to gauge public sentiment, identify concerns, and assess the impact of political decisions.
+
+By combining OCR technology with sentiment analysis, the OCR Sentiment Analysis project provides a valuable tool for extracting insights from text data. It enables businesses, organizations, researchers, and individuals to understand sentiment, make informed decisions, and take appropriate actions based on the sentiment expressed in the extracted text.
+
+
