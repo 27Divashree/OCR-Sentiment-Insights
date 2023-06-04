@@ -1,4 +1,4 @@
-# Text-Mood-Analyzer
+# OCR-Sentiment-Insights
 A sentiment analysis web app to analyze sentiments by extracting text using ocr.
 
 
